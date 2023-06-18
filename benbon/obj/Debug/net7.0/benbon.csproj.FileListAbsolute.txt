@@ -1,0 +1,15 @@
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\benbon.csproj.AssemblyReference.cache
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\benbon.GeneratedMSBuildEditorConfig.editorconfig
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\benbon.AssemblyInfoInputs.cache
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\benbon.AssemblyInfo.cs
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\benbon.csproj.CoreCompileInputs.cache
+E:\HOMOSEX\benbon\benbon\bin\Debug\net7.0\benbon.exe
+E:\HOMOSEX\benbon\benbon\bin\Debug\net7.0\benbon.deps.json
+E:\HOMOSEX\benbon\benbon\bin\Debug\net7.0\benbon.runtimeconfig.json
+E:\HOMOSEX\benbon\benbon\bin\Debug\net7.0\benbon.dll
+E:\HOMOSEX\benbon\benbon\bin\Debug\net7.0\benbon.pdb
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\benbon.dll
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\refint\benbon.dll
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\benbon.pdb
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\benbon.genruntimeconfig.cache
+E:\HOMOSEX\benbon\benbon\obj\Debug\net7.0\ref\benbon.dll
